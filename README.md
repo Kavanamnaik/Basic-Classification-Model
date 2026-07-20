@@ -101,3 +101,23 @@ This project demonstrates the complete workflow of a machine learning classifica
 - Use larger real-world datasets.
 - Apply advanced classification algorithms such as Random Forest and Support Vector Machine.
 - Deploy the model as a web application using Flask or Streamlit.
+
+## Count Plot
+
+![Count Plot](output/count_plot.png)
+
+## Pair Plot
+
+![Pair Plot](output/pair_plot.png)
+
+## Correlation Heatmap
+
+![Correlation Heatmap](output/correlation_heatmap.png)
+
+## Logistic Regression Confusion Matrix
+
+![Logistic Regression Confusion Matrix](output/logistic_confusion_matrix.png)
+
+## Decision Tree Confusion Matrix
+
+![Decision Tree Confusion Matrix](output/decision_tree_confusion_matrix.png)
